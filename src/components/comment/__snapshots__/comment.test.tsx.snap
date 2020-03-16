@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Comment renders correctly 1`] = `
+<div
+  className="review"
+>
+  <blockquote
+    className="review__quote"
+  >
+    <p
+      className="review__text"
+      style={
+        Object {
+          "wordBreak": "break-word",
+        }
+      }
+    >
+      
+    </p>
+    <footer
+      className="review__details"
+    >
+      <cite
+        className="review__author"
+      >
+        
+      </cite>
+      <time
+        className="review__date"
+        dateTime="11.10.2011"
+      >
+        November 11, 2011
+      </time>
+    </footer>
+  </blockquote>
+  <div
+    className="review__rating"
+  >
+    1
+  </div>
+</div>
+`;

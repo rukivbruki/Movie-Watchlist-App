@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MovieCard renders correctly 1`] = `
+<article
+  className="small-movie-card catalog__movies-card"
+  onClick={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  style={
+    Object {
+      "position": "relative",
+    }
+  }
+>
+  <div
+    className="small-movie-card__image"
+  >
+    <img
+      alt=""
+      height="175"
+      src=""
+      width="280"
+    />
+  </div>
+  <h3
+    className="small-movie-card__title"
+    style={
+      Object {
+        "height": "100%",
+        "width": "100%",
+      }
+    }
+  >
+    <a
+      className="small-movie-card__link"
+      href="/films/1"
+      onClick={[Function]}
+      style={
+        Object {
+          "alignItems": "flex-end",
+          "display": "flex",
+          "height": "100%",
+          "width": "100%",
+        }
+      }
+    >
+      
+    </a>
+  </h3>
+</article>
+`;

@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar renders correctly 1`] = `
+<a
+  className="sign-in__link"
+  href="/login"
+  onClick={[Function]}
+>
+  Sign In
+</a>
+`;
