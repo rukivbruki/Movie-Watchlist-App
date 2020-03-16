@@ -11,9 +11,9 @@ Thumbs.db
 *.log*
 node_modules/
 
-# Build
-public/bundle.js
-public/bundle.js.map
-
-# Project exclude paths
-/public/
+## Build
+#public/bundle.js
+#public/bundle.js.map
+#
+## Project exclude paths
+#/public/
