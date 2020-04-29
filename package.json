@@ -9,7 +9,7 @@
     "eslint.ts": "eslint --fix --config .eslintrc-ts.yml --ext .tsx src/",
     "test": "npm run eslint && npm run test.jest",
     "test.jest": "jest",
-    "build": "webpackr --mode production",
+    "build": "webpack --mode production",
     "start": "node server.js"
   },
   "devDependencies": {
