@@ -6,6 +6,7 @@ module.exports = {
     filename: `bundle.js`,
     path: path.join(__dirname, `public`)
   },
+  // For use it add "start": "webpack-dev-server" in package.json
   devServer: {
     contentBase: path.join(__dirname, `public`),
     open: false,
